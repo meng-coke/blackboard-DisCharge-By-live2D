@@ -31,3 +31,13 @@ npm install anywhere -g
 ```
 
 然后在index.html下使用Git Bash Here，执行 anywhere
+
+<br>
+
+# 展示
+
+![image](https://github.com/meng-coke/blackboard-DisCharge-By-live2D/blob/master/simple/images/piuSin.gif)
+
+<br>
+
+[code detail](https://github.com/meng-coke/blackboard-DisCharge-By-live2D/tree/master/simple/conciseStyle)
