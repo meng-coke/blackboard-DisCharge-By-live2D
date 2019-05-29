@@ -36,8 +36,20 @@ npm install anywhere -g
 
 # 展示
 
+## 依赖于原生live2D.js
+
 ![image](https://github.com/meng-coke/blackboard-DisCharge-By-live2D/blob/master/simple/images/piuSin.gif)
 
 <br>
 
 [code detail](https://github.com/meng-coke/blackboard-DisCharge-By-live2D/tree/master/simple/conciseStyle)
+
+<br>
+
+## 带特效插件
+
+![image](https://github.com/meng-coke/blackboard-DisCharge-By-live2D/blob/master/snipe/images/GIF3.gif)
+
+<br>
+
+[code detail](https://github.com/meng-coke/blackboard-DisCharge-By-live2D/tree/master/snipe/specialEffects)
